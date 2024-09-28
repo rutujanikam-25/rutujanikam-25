@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h1 align="center">Hi 👋, I'm Rutuja Nikam</h1>
-<h3 align="center">A passionate full stack developer with expertise in front-end technologies like HTML,CSS and back-end technologies like Java,JDBC,JSP.</h3>
+<h3 align="center">A passionate full stack developer with expertise in front-end technologies like HTML,CSS and back-end technologies like Java,JDBC,JSP,Hibernet,SpringBoot</h3>
 
 - 🌱 I’m currently learning **Java FullStack**
 
